@@ -3,7 +3,7 @@ const settings = {
   author: 'Lukynator‎',
   botName: "Slavikistan Whatsapp Bot",
   botOwner: 'Lukynator', // Your name
-  ownerNumber: '420734321681', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '420777834088', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
