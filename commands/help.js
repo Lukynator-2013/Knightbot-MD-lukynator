@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'Slavikistan Whatsapp Bot'}*  
    Version: *${settings.version || '3.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'Lukynator'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -213,14 +213,6 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .facepalm 
 ╚═══════════════════╝
 
-╔═══════════════════╗
-💻 *Github Commands:*
-║ ➤ .git
-║ ➤ .github
-║ ➤ .sc
-║ ➤ .script
-║ ➤ .repo
-╚═══════════════════╝
 
 Join our channel for updates:`;
 
@@ -238,7 +230,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterName: 'Slavikistan',
                         serverMessageId: -1
                     }
                 }
